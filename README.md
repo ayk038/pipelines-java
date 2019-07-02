@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AndrewKim0366/LearningAzure/_apis/build/status/ayk038.pipelines-java?branchName=master)](https://dev.azure.com/AndrewKim0366/LearningAzure/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
